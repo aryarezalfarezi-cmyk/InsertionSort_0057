@@ -5,7 +5,7 @@ int arr[20]; // membuat array dengan panjang data 20
 int n;       // membuat variable inputan 
 
 void input()
-{ // procedure input
+{ // procedure inpu
     while (true)
     {
         cout << "Masukan Jumlah Data Pada Array : ";
@@ -77,5 +77,6 @@ int main()
     system("pause");
 
 }
+
 
 
