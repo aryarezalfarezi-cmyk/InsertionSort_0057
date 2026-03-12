@@ -33,7 +33,7 @@ void input()
 }
 
 void insertionsort()
-{ // procedure insertion sor
+{ // procedure insertion sort
     int temp;
     int j;
 
@@ -77,4 +77,5 @@ int main()
     system("pause");
 
 }
+
 
